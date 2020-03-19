@@ -1,0 +1,20 @@
+nav {
+    background-color: rgb(20, 20, 20)
+}
+
+a {
+    text-decoration: none;
+    color: rgb(192, 65, 65)
+}
+ a:hover {
+    text-decoration: underline;
+    color: rgb(233, 219, 219)
+}
+
+.navbar-brand {
+    font-size: 38px;
+}
+
+.nav-item {
+    font-size: 28px;
+}
