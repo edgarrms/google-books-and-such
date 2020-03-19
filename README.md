@@ -1,6 +1,6 @@
 # google-books-and-such
 
-![](images/pic6.png)
+![](images/pic6.gif)
 
 ![](images/pic1.png)
 
